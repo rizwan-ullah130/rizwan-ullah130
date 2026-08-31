@@ -1,18 +1,113 @@
-# 💫 About Me:
-​Data Analyst | ML | Built DataMate AI(Automated Analytics) | Python | SQL |R| Power BI | MS Excel
+# 👋 Hi, I'm Rizwan Ullah | Data Analyst
 
+A passionate and results-driven **Data Analyst** specialized in turning raw data into strategic business insights. I leverage advanced statistical computing, interactive business intelligence tools, and modern web frameworks to engineer end-to-end data products.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BsHsjSjU7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rizwan_shah_salarzai?utm_source=qr&igsh=dzhsd2IxcGE5bmt2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rizwan-ullah-2640b1363/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rizwan-ullah130&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rizwan-ullah130&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rizwan-ullah130&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💡 **Core Focus:** Data Cleaning | Predictive Modeling | Interactive Reporting | Spatial Analysis | AI Tools
 
 ---
-[![](https://komarev.com/ghpvc/?username=rizwan-ullah130&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎓 Academic & Professional Background
+- 🎓 **Degree:** Bachelor's in **Data Analytics** from **Government College University, Faisalabad (GCUF)**
+- 🏢 **Status:** Open to Work | Actively seeking Data Analyst and Machine Learning opportunities globally.
+- 📍 **Location:** Faisalabad, Punjab, Pakistan
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com" target="_blank"><img src="https://shields.io" alt="Kaggle" /></a>
+  <a href="https://share.streamlit.io/user/rizwan-ullah130" target="_blank"><img src="https://shields.io" alt="Streamlit Portfolio" /></a>
+  <a href="https://facebook.com" target="_blank"><img src="https://shields.io" alt="Facebook" /></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram" /></a>
+</p>
+
+---
+
+### 🛠️ Professional Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="Python" width="40" height="40" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="SQL Server" width="40" height="40" />
+      <br />MS SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="MySQL" width="40" height="40" />
+      <br />MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="R" width="40" height="40" />
+      <br />R Language
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.io" alt="Power BI" width="40" height="40" />
+      <br />Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="Tableau" width="40" height="40" />
+      <br />Tableau
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="Django" width="40" height="40" />
+      <br />Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="Streamlit" width="40" height="40" />
+      <br />Streamlit
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="Supabase" width="40" height="40" />
+      <br />Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="Excel" width="40" height="40" />
+      <br />Excel/VBA
+    </td>
+    <td align="center" width="96">
+      <img src="https://wikimedia.org" alt="ArcMap" width="40" height="40" />
+      <br />ArcGIS
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
+      <br />Git/GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Dynamic Coding Metrics
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
+</p>
+
+---
+
+### 🚀 Featured Capstone Project
+
+#### 🛠️ DataMate AI — Next-Gen Automated Data Analytics & Machine Learning Platform
+* **The Breakthrough:** Built an end-to-end **No-Code Analytics Engine** that empowers non-technical teams to drop raw spreadsheets (`.csv`/`.xlsx`) and immediately extract deep mathematical patterns without writing a single line of code.
+* **Core Capabilities:** 
+  - Automated Structural Data Cleaning & Outlier Detection (Pandas/NumPy)
+  - Instant Exploratory Data Analysis (EDA) & Auto-Generated Charts
+  - Multi-Algorithm Machine Learning Models for instant forecasting (Scikit-Learn)
+  - Live Data Sync to cloud databases (Supabase Cloud Architecture)
+* **Tech Engine:** Python | Streamlit Framework | Scikit-Learn | MS SQL Server | Supabase
+* [📂 Explore the Source Code & Architecture](https://github.com)
+
+---
+
+### 📈 Analytical Core Focus
+- **Data Engineering:** Designing optimal database tables in SQL Server, structuring indices, and schema normalization.
+- **Predictive Analytics:** Utilizing Python (Scikit-Learn, Statsmodels) and SPSS for advanced regression, classification, and forecasting.
+- **Geospatial Insights:** Analyzing complex spatial trends and map layouts using ArcMap GIS.
