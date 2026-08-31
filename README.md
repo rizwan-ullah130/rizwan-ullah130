@@ -15,81 +15,22 @@ A passionate and results-driven **Data Analyst** specialized in turning raw data
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com" target="_blank"><img src="https://shields.io" alt="Kaggle" /></a>
-  <a href="https://share.streamlit.io/user/rizwan-ullah130" target="_blank"><img src="https://shields.io" alt="Streamlit Portfolio" /></a>
-  <a href="https://facebook.com" target="_blank"><img src="https://shields.io" alt="Facebook" /></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram" /></a>
-</p>
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 📊 **Kaggle:** [://kaggle.com](https://www.://kaggle.com)
+- 🚀 **Streamlit Portfolio:** [share.streamlit.io/user/rizwan-ullah130](https://share.streamlit.io/user/rizwan-ullah130)
+- 📘 **Facebook:** [://facebook.com](https://www.://facebook.com)
+- 📸 **Instagram:** [://instagram.com](https://www.://instagram.com?igsh=dzhsd2IxcGE5bmt2)
 
 ---
 
 ### 🛠️ Professional Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Python" width="40" height="40" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="SQL Server" width="40" height="40" />
-      <br />MS SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="MySQL" width="40" height="40" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="R" width="40" height="40" />
-      <br />R Language
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.io" alt="Power BI" width="40" height="40" />
-      <br />Power BI
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Tableau" width="40" height="40" />
-      <br />Tableau
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Django" width="40" height="40" />
-      <br />Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Streamlit" width="40" height="40" />
-      <br />Streamlit
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Supabase" width="40" height="40" />
-      <br />Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Excel" width="40" height="40" />
-      <br />Excel/VBA
-    </td>
-    <td align="center" width="96">
-      <img src="https://wikimedia.org" alt="ArcMap" width="40" height="40" />
-      <br />ArcGIS
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
-      <br />Git/GitHub
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Dynamic Coding Metrics
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
-</p>
+* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), R Language
+* **Databases:** MS SQL Server, MySQL, Supabase Cloud DB
+* **BI & Analytics:** Power BI, Tableau, Excel / VBA, SPSS
+* **Web Frameworks:** Streamlit, Django
+* **Geospatial Tools:** ArcGIS / ArcMap
+* **Version Control:** Git & GitHub
 
 ---
 
