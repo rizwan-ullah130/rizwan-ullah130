@@ -1,16 +1,17 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rizwan%20Ullah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descSize=22&descAlignY=60" alt="Rizwan Ullah - Data Analyst"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rizwan%20Ullah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descSize=18&descAlignY=60" alt="Rizwan Ullah - Data Analyst"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Python+%7C+R+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Open+to+remote+Data+Analyst+roles" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Python+%7C+R+%7C+SQL+%7C+Power+BI+%7C+Tableau;Open+to+remote+Data+Analyst+roles" alt="Typing intro"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rizwan-ullah-2640b1363"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rizwan.202202811@gcuf.edu.pk"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/rizwan-ullah130?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rizwan-ullah130&style=for-the-badge&color=2c5364&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
@@ -19,14 +20,15 @@
 
 I am a **Data Analyst** from **Faisalabad, Pakistan**, with a degree in **Data Analytics** from **Government College University Faisalabad (GCUF)**.
 
-I clean messy data, explore it, and turn it into charts and dashboards that support clear business decisions. I am at the start of my career and **looking for remote Data Analyst opportunities**.
+I clean messy data, explore it, and turn it into charts and dashboards that support clear business decisions — no unnecessary complexity, just correct, practical analysis. I'm at the start of my career and **actively looking for remote Data Analyst opportunities**.
 
 | | |
 |---|---|
 | 🎓 **Education** | Data Analytics, GCUF |
 | 📍 **Location** | Faisalabad, Pakistan |
 | 💼 **Looking for** | Remote Data Analyst roles |
-| 🧭 **Focus** | Data cleaning, EDA, dashboards, business insights |
+| 🧭 **Focus** | Data cleaning · EDA · Dashboards · Business insights |
+| ⚡ **Currently** | Learning interactive dashboards with R Shiny |
 
 ---
 
@@ -37,7 +39,7 @@ I clean messy data, explore it, and turn it into charts and dashboards that supp
 | **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **R** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny%20Dashboard-75AADB?style=flat-square&logo=rstudioide&logoColor=white) |
 | **BI & Dashboards** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **Data & Stats** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Data & Stats** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 | **GIS** | ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white) |
 
 ---
@@ -57,19 +59,29 @@ I clean messy data, explore it, and turn it into charts and dashboards that supp
 
 | Project | What it covers | Tools |
 |---|---|---|
-| 🛒 [**Retail Sales Analysis & Visualization**](https://github.com/rizwan-ullah130/Python-Mini-Project---Retail-Sales-Data-Analysis-Visualization) | Retail sales data analysis and visualization to understand sales performance | Python, Pandas, Matplotlib, Seaborn |
-| 📊 [**Data Visualization in Python**](https://github.com/rizwan-ullah130/Data-Visualization-in-python) | A collection of visualization work with Python libraries | Python, Matplotlib, Seaborn, Plotly |
-| 🤖 [**FYP: DataMate AI**](https://github.com/rizwan-ullah130/FYP-DataMate-AI) | Final Year Project, Data Analytics degree, GCUF | Python |
+| 🛒 [**Retail Sales Analysis & Visualization**](https://github.com/rizwan-ullah130/Python-Mini-Project---Retail-Sales-Data-Analysis-Visualization) | Cleaned & analyzed 1,800+ retail transactions to find category, regional and seasonal sales trends | Python, Pandas, Matplotlib, Seaborn |
+| 🛍️ [**Customer Shopping Sales Dashboard**](https://github.com/rizwan-ullah130/Customer-Shopping-Sales-Dashboard) | Interactive dashboard analyzing $2.7M in mall sales by category, payment method & demographics | Tableau |
+| 👥 [**HR Analytics Dashboard**](https://github.com/rizwan-ullah130/Tableau_Dashboards) | Workforce dashboard tracking attrition by department, role, age group and job satisfaction | Tableau |
+| 💰 [**Loan Risk Analysis**](https://github.com/rizwan-ullah130/Loan-Risk-Analysis) | Investigated loan default drivers; engineered a DTI ratio & risk category; found credit score alone wasn't a reliable predictor | Python, Pandas, Seaborn |
+| 🤖 [**DataMate AI**](https://github.com/rizwan-ullah130/FYP-DataMate-AI) *(Team Project — Final Year Project)* | No-code data analytics & ML platform: upload → clean → EDA → AutoML → report | Python, Streamlit, Scikit-learn |
 
 ➡️ See all work in my [repositories](https://github.com/rizwan-ullah130?tab=repositories).
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwan-ullah130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-ullah130&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwan-ullah130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-ullah130&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-ullah130&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rizwan-ullah130&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -78,7 +90,12 @@ I clean messy data, explore it, and turn it into charts and dashboards that supp
 
 I am open to remote Data Analyst roles, internships and data project collaboration.
 
-📧 rizwan.202202811@gcuf.edu.pk  •  💼 [LinkedIn](https://www.linkedin.com/in/rizwan-ullah-2640b1363)
+<p align="center">
+  <a href="mailto:rizwan.202202811@gcuf.edu.pk"><img src="https://img.shields.io/badge/Email-rizwan.202202811%40gcuf.edu.pk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/rizwan-ullah-2640b1363"><img src="https://img.shields.io/badge/LinkedIn-Rizwan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://tiktok.com/@data.analyst08"><img src="https://img.shields.io/badge/TikTok-%40data.analyst08-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.instagram.com/rizwan_shah_salarzai"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer"/>
