@@ -4,14 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Python+%7C+R+%7C+SQL+%7C+Power+BI+%7C+Tableau;Open+to+remote+Data+Analyst+roles" alt="Typing intro"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/rizwan-ullah-2640b1363"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rizwan.202202811@gcuf.edu.pk"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:YOUR_PROFESSIONAL_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/rizwan-ullah130?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rizwan-ullah130&style=for-the-badge&color=2c5364&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
@@ -20,13 +15,13 @@
 
 I am a **Data Analyst** from **Faisalabad, Pakistan**, with a degree in **Data Analytics** from **Government College University Faisalabad (GCUF)**.
 
-I clean messy data, explore it, and turn it into charts and dashboards that support clear business decisions — no unnecessary complexity, just correct, practical analysis. I'm at the start of my career and **actively looking for remote Data Analyst opportunities**.
+I clean messy data, explore it, and turn it into charts and dashboards that support clear business decisions — no unnecessary complexity, just correct, practical analysis. I'm at the start of my career and **actively looking for remote Data Analyst jobs**.
 
 | | |
 |---|---|
 | 🎓 **Education** | Data Analytics, GCUF |
 | 📍 **Location** | Faisalabad, Pakistan |
-| 💼 **Looking for** | Remote Data Analyst roles |
+| 💼 **Looking for** | Remote Data Analyst jobs |
 | 🧭 **Focus** | Data cleaning · EDA · Dashboards · Business insights |
 | ⚡ **Currently** | Learning interactive dashboards with R Shiny |
 
@@ -69,32 +64,14 @@ I clean messy data, explore it, and turn it into charts and dashboards that supp
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwan-ullah130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-ullah130&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-ullah130&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizwan-ullah130&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
-I am open to remote Data Analyst roles, internships and data project collaboration.
+I am open to remote Data Analyst job opportunities. Feel free to reach out.
 
 <p align="center">
-  <a href="mailto:rizwan.202202811@gcuf.edu.pk"><img src="https://img.shields.io/badge/Email-rizwan.202202811%40gcuf.edu.pk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:YOUR_PROFESSIONAL_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/rizwan-ullah-2640b1363"><img src="https://img.shields.io/badge/LinkedIn-Rizwan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://tiktok.com/@data.analyst08"><img src="https://img.shields.io/badge/TikTok-%40data.analyst08-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="https://www.instagram.com/rizwan_shah_salarzai"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <p align="center">
